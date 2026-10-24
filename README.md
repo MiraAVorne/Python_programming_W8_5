@@ -1,6 +1,6 @@
 # W8_5
 
-Create program which can handle basic user registrations and logins. For this exercise, study the built-in library hashlib. The passwords must be hashed with md5 and hexdigested to a string format. It isn’t necessary to implement unique constraints on usernames as all of the usernames in the CodeGrade tests will be unique.
+Create program which can handle basic user registrations and logins. For this exercise, study the built-in library hashlib. The passwords must be hashed with md5 and hexdigested to a string format. It isn’t necessary to implement unique constraints on usernames as all of the usernames in the tests will be unique.
 
 Main menu options:
 
